@@ -218,9 +218,9 @@ https://usuario.github.io/evaluacion-LMS/
 
 ---
 
-# 👨‍💻 Autor
+# 👨‍💻 Autores
 
-**Nombre del estudiante**
+**Anayttee Rodríguez - Maribel Mendoza - Pedro Corrales - Luis Vega**
 
 Universidad Tecnológica OTEIMA
 
