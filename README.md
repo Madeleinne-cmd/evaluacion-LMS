@@ -101,20 +101,19 @@ Blackboard es una plataforma de gestión del aprendizaje, conocida como LMS. Su 
 * Videoconferencias
 * Automatización de correos electrónicos
 ### Ventajas
-•	Gestiona miles de usuarios, cursos simultáneos y grandes volúmenes de información sin perder estabilidad.
-•	Te permite organizar tus actividades académicas de acuerdo con tu agenda.
-•	Reúne en un solo lugar las tareas, los contenidos, las calificaciones, los mensajes y las evaluaciones.
-•	Desarrollo de habilidades profesionales.
-•	Comunicación con profesores y compañeros.
-•	Seguridad y privacidad
+* Gestiona miles de usuarios, cursos simultáneos y grandes volúmenes de información sin perder estabilidad.
+* Te permite organizar tus actividades académicas de acuerdo con tu agenda.
+* Reúne en un solo lugar las tareas, los contenidos, las calificaciones, los mensajes y las evaluaciones.
+* Desarrollo de habilidades profesionales.
+* Comunicación con profesores y compañeros.
+* Seguridad y privacidad
 ### Desventajas
-
-•	Para la integración, es necesario tener conocimiento sobre código HTML.
-•	La plataforma puede ser compleja de usar.
-•	Es uno de los LMS más costosos del mercado.
-•	Con gran afluencia de estudiantes, puede haber problemas de velocidad.
-•	Experiencia en dispositivos móviles mejorable.
-•	Si la universidad no capacita a sus docentes ni organiza la plataforma, Blackboard se vuelve caótico y solo se emplea para cargar archivos.
+* Para la integración, es necesario tener conocimiento sobre código HTML.
+* La plataforma puede ser compleja de usar.
+* Es uno de los LMS más costosos del mercado.
+* Con gran afluencia de estudiantes, puede haber problemas de velocidad.
+* Experiencia en dispositivos móviles mejorable.
+* Si la universidad no capacita a sus docentes ni organiza la plataforma, Blackboard se vuelve caótico y solo se emplea para cargar archivos.
 
 # 🟢 Canvas
 
