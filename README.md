@@ -212,7 +212,7 @@ https://github.com/Madeleinne-cmd/evaluacion-LMS/
 Si publicó el proyecto mediante GitHub Pages, coloque aquí el enlace.
 
 ```
-https://usuario.github.io/evaluacion-LMS/
+[https://usuario.github.io/evaluacion-LMS/](https://madeleinne-cmd.github.io/evaluacion-LMS/)
 ```
 
 ---
