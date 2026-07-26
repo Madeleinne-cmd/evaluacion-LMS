@@ -189,6 +189,9 @@ Escriba tres conclusiones relevantes.
 Bit4learn. (2026). Canvas LMS 2026: Qué es, precios, alternativas y opiniones. https://bit4learn.com/canvas-lms/
 Bit4learn. (2026). Canvas LMS 2026: Qué es, precios, alternativas y opiniones. https://bit4learn.com/canvas-lms/
 Bit4learn. (2025). Blackboard LMS: Opiniones, alternativas, precios. https://bit4learn.com/blackboard-lms/
+Digital Samba. (2026). LMS: Qué es, tipos y los 7 mejores sistemas en 2026. https://www.digitalsamba.com/es/blog/learning-management-systems
+CognosOnline. (2026). Blackboard Learn: Funcionalidad y características del LMS. https://cognosonline.com/funciones-y-principales-usos-de-blackboard/
+
 ```
 
 ---
