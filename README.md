@@ -120,7 +120,7 @@ Se puede decir que la selección de un LMS dependerá principalmente del context
 - Experiencia en dispositivos móviles mejorable.
 - Si la universidad no capacita a sus docentes ni organiza la plataforma, Blackboard se vuelve caótico y solo se emplea para cargar archivos.
 
-# 🟢 Canvas
+# 🔴 Canvas
 
 ## Descripción
 
