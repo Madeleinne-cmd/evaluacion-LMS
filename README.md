@@ -8,6 +8,7 @@
 > **Fecha:** 26/ 7 / 2026
 ---
 <img src="imagenes/comparativa-lms.png" alt="Comparativa LMS" width="500">
+![Comparativa LMS](imagenes/comparativa-lms.png)
 ---
 
 # 📖 Descripción
