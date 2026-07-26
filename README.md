@@ -9,6 +9,7 @@
 > **Fecha:** 26/7/2026
 ---
 <img src="LMS.png" alt="Comparativa LMS" width="800">
+▶️ [Ver video explicativo](https://www.youtube.com/watch?v=YK3Xc10DyZg)
 
 # 📖 Descripción
 
