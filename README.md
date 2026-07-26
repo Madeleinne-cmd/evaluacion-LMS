@@ -90,7 +90,7 @@ Se puede decir que la selección de un LMS dependerá principalmente del context
 
 ---
 
-# ⚫ Blackboard
+# ⚫ Blackboard <img src="2_blackboard.png" alt="Logo Moodle" width="80">
 
 ## Descripción
 > Blackboard es una plataforma de gestión del aprendizaje, conocida como LMS. Su propósito es desarrollar, organizar y reunir en un único entorno digital los recursos, actividades y herramientas necesarios para llevar a cabo un curso. Es una de las herramientas más empleadas por universidades, colegios e instituciones corporativas a nivel mundial. Algunas de las características más destacadas de Blackboard son:
