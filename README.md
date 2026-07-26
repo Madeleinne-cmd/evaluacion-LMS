@@ -93,25 +93,29 @@ Se puede decir que la selección de un LMS dependerá principalmente del context
 
 ## Descripción
 
-> Escriba una breve descripción.
-
+Blackboard es una plataforma de gestión del aprendizaje, conocida como LMS. Su propósito es desarrollar, organizar y reunir en un único entorno digital los recursos, actividades y herramientas necesarios para llevar a cabo un curso. Es una de las herramientas más empleadas por universidades, colegios e instituciones corporativas a nivel mundial. Desde esta plataforma se pueden realizar lo siguiente:
+•	Los docentes pueden administrar los contenidos
+•	Llevar a cabo evaluaciones
+•	Los estudiantes pueden consultar los materiales 
+•	Facilitar la entrega de trabajos, 
+•	Promover la comunicación y colaboración
+•	Proporciona estadísticas acerca del avance, la asistencia y el desempeño de los estudiantes.
 ### Ventajas
 
--
-
--
-
--
+•	Gestiona miles de usuarios, cursos simultáneos y grandes volúmenes de información sin perder estabilidad.
+•	Te permite organizar tus actividades académicas de acuerdo con tu agenda.
+•	Reúne en un solo lugar las tareas, los contenidos, las calificaciones, los mensajes y las evaluaciones.
+•	Desarrollo de habilidades profesionales.
+•	Comunicación con profesores y compañeros.
 
 ### Desventajas
 
--
-
--
-
--
-
----
+•	Para la integración, es necesario tener conocimiento sobre código HTML.
+•	La plataforma puede ser compleja de usar.
+•	Es uno de los LMS más costosos del mercado.
+•	Con gran afluencia de estudiantes, puede haber problemas de velocidad.
+•	Experiencia en dispositivos móviles mejorable.
+•	Si la universidad no capacita a sus docentes ni organiza la plataforma, Blackboard se vuelve caótico y solo se emplea para cargar archivos.
 
 # 🟢 Canvas
 
