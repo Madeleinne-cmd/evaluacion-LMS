@@ -4,7 +4,7 @@
 > **Asignatura:** Enseñanza y Aprendizaje en Línea  
 > **Universidad:** Universidad Tecnológica OTEIMA  
 > **Docente:** Briseida Cruz 
-> **Estudiante:** Anayttee Rodríguez
+> **Estudiantes:** Anayttee Rodríguez - Maribel Mendoza - Pedro Corrales - Luis Vega
 > **Fecha:** 26/ 7 / 2026
 
 ---
