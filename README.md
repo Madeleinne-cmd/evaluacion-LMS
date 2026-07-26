@@ -202,7 +202,7 @@ CognosOnline. (2026). Blackboard Learn: Funcionalidad y características del LMS
 Pegue aquí el enlace del repositorio.
 
 ```
-https://github.com/usuario/evaluacion-LMS
+https://github.com/Madeleinne-cmd/evaluacion-LMS/
 ```
 
 ---
