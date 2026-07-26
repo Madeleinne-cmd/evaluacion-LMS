@@ -176,19 +176,13 @@ Se puede decir que la selección de un LMS dependerá principalmente del context
 # 🎯 Conclusiones
 
 ### Conclusión 1
-
----
---- Canvas se posicionó como la plataforma con un mejor equilibrio entre la facilidad de uso y funcionalidades, lo que la convirtió en una opción adecuada para instituciones que busvan priorizar la experiencia sencilla de docentes y estudiantes. 
+> Canvas se posicionó como la plataforma con un mejor equilibrio entre la facilidad de uso y funcionalidades, lo que la convirtió en una opción adecuada para instituciones que busvan priorizar la experiencia sencilla de docentes y estudiantes. 
 
 ### Conclusión 2
-
----
---- Moodle demostró ser la alternativa más flexible y económica gracias a que su código es más abierto, a su vez esa flexibilidad exigió contar con mayor soporte técnico lo cual es la más recomendable para intituciones gran capacidad. 
+> Moodle demostró ser la alternativa más flexible y económica gracias a que su código es más abierto, a su vez esa flexibilidad exigió contar con mayor soporte técnico lo cual es la más recomendable para intituciones gran capacidad. 
 
 ### Conclusión 3
-
----
---- Blackboard aunque ofreció herramientas robustas orientada a instituciones más grandes su curva de aprendizaje es más pronunciada y su coste es más elevado factores a considerar en su adopción. 
+>  Blackboard aunque ofreció herramientas robustas orientada a instituciones más grandes su curva de aprendizaje es más pronunciada y su coste es más elevado factores a considerar en su adopción. 
 
 # 📚 Referencias bibliográficas
 
@@ -198,9 +192,7 @@ Bit4learn. (2026). Canvas LMS 2026: Qué es, precios, alternativas y opiniones. 
 Bit4learn. (2025). Blackboard LMS: Opiniones, alternativas, precios. https://bit4learn.com/blackboard-lms/
 Digital Samba. (2026). LMS: Qué es, tipos y los 7 mejores sistemas en 2026. https://www.digitalsamba.com/es/blog/learning-management-systems
 CognosOnline. (2026). Blackboard Learn: Funcionalidad y características del LMS. https://cognosonline.com/funciones-y-principales-usos-de-blackboard/
-
 ```
-
 ---
 
 # 🔗 Evidencias
