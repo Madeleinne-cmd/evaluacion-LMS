@@ -121,19 +121,19 @@ Plataforma LMS utilizada en instituciones educativas que permite gestionar curso
 
 ### Ventajas
 
--Interfaz fácil e intuitiva lo que facilita que docentes y estudiantes se adapten más facilmente. 
+- Interfaz fácil e intuitiva lo que facilita que docentes y estudiantes se adapten más facilmente. 
 
--Integración de buenas herramientas de comunicación como: sistema de anuncios, foros de discusión, mensajería. 
+- Integración de buenas herramientas de comunicación como: sistema de anuncios, foros de discusión, mensajería. 
 
--Compatibilidad con dispositivos móviles, lo que permite a los estudiantes poder revisar contenidos y entregar tareas desde el celular.
+- Compatibilidad con dispositivos móviles, lo que permite a los estudiantes poder revisar contenidos y entregar tareas desde el celular.
 
 ### Desventajas
 
--Con planes básicos algunas de las herramientas de análisis y reportes quedaron limitadas o no se tiene un acceso disponible.
+- Con planes básicos algunas de las herramientas de análisis y reportes quedaron limitadas o no se tiene un acceso disponible.
 
--Si los cursos están muy cargados de contenidos se puede tener incovenientes en la navegación ya que, podía volverse confusa si la estructura de los módulos no ser organizaba correctamente. 
+- Si los cursos están muy cargados de contenidos se puede tener incovenientes en la navegación ya que, podía volverse confusa si la estructura de los módulos no ser organizaba correctamente. 
 
--En áreas donde la conexión a internet es inestable tanto docentes como estudiantes pueden tener difilcutades con acceso a videos, exámenes con temporizador o entrega de archivos. 
+- En áreas donde la conexión a internet es inestable tanto docentes como estudiantes pueden tener difilcutades con acceso a videos, exámenes con temporizador o entrega de archivos. 
 
 ---
 
