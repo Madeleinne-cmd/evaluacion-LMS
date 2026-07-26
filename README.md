@@ -33,8 +33,6 @@ Se puede decir que la selección de un LMS dependerá principalmente del context
 
 # 🏷️ Palabras clave
 
-> Escriba un máximo de cinco palabras clave en orden alfabético.
-
 - Aula Virtual
 - Educación en Línea
 - Gestión del Aprendizaje
