@@ -1,4 +1,4 @@
-# evaluaci-n-LMS
+# evaluacion-LMS
 # 🎓 Evaluación Comparativa Profesional de Plataformas LMS
 
 > **Asignatura:** Enseñanza y Aprendizaje en Línea  
