@@ -3,9 +3,9 @@
 
 > **Asignatura:** Enseñanza y Aprendizaje en Línea  
 > **Universidad:** Universidad Tecnológica OTEIMA  
-> **Docente:** _______________________  
-> **Estudiante:** ____________________  
-> **Fecha:** ____ / ____ / ______
+> **Docente:** Briseida Cruz 
+> **Estudiante:** Anayttee Rodríguez
+> **Fecha:** 26/ 7 / 2026
 
 ---
 
