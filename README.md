@@ -66,7 +66,7 @@ Se puede decir que la selección de un LMS dependerá principalmente del context
 
 ---
 
-# 🔵 Moodle
+# 🔵 Moodle <img src="1_moodle.png" alt="Logo Moodle" width="40">
 
 ## Descripción
 
