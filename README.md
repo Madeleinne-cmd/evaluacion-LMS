@@ -11,7 +11,7 @@
 
 # 📖 Descripción
 
-En este sitio académico se realiza una presentación comparativa de los Sistemas de Gestión del Aprendizaje (LMS - Learning Management Systema), **Moodle**, **Blackboar**, y **Canvas**, la cual realizamos una comparativa de esas tres grandes herramientas para el manejo academico en línea.
+En este sitio académico se realiza una presentación comparativa de los ***Sistemas de Gestión del Aprendizaje*** (LMS - Learning Management Systema), **Moodle**, **Blackboar**, y **Canvas**, la cual realizamos una comparativa de esas tres grandes herramientas para el manejo academico en línea.
 
 ---
 
