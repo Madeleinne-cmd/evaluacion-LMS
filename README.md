@@ -175,8 +175,6 @@ Recursos pedagógicos: Moodle facilitó actividades interactivas propias; Canvas
 
 # 🎯 Conclusiones
 
-Escriba tres conclusiones relevantes.
-
 ### Conclusión 1
 
 ---
