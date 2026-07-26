@@ -35,11 +35,11 @@ Se puede decir que la selección de un LMS dependerá principalmente del context
 
 > Escriba un máximo de cinco palabras clave en orden alfabético.
 
-- Blackboard
-- Canvas
-- Educación Virtual
-- LMS
-- Moodle
+- Aula Virtual
+- Educación en Línea
+- Gestión del Aprendizaje
+- Plataforma Educativa
+- Tecnología Educativa
 
 ---
 
