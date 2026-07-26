@@ -156,8 +156,6 @@ Plataforma LMS utilizada en instituciones educativas que permite gestionar curso
 
 # 💡 Análisis crítico
 
-> Compare las tres plataformas considerando aspectos como:
-
 - Funcionalidades
 - Experiencia del usuario
 - Recursos pedagógicos
