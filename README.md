@@ -5,7 +5,6 @@
 > **Universidad:** Universidad Tecnológica OTEIMA  
 > **Docente:** Briseida Cruz 
 > **Estudiantes:** Anayttee Rodríguez - Maribel Mendoza - Pedro Corrales - Luis Vega
-> **Docente:** Briseida Cruz 
 > **Fecha:** 26/ 7 / 2026
 
 ---
