@@ -47,7 +47,7 @@ Se puede decir que la selección de un LMS dependerá principalmente del context
 
 ## Antecedentes
 
-> Explique brevemente qué son los LMS y su evolución.
+> Los Sistemas de Gestión del Aprendizaje (LMS) son plataformas de software diseñadas para administrar, documentar, distribuir y evaluar procesos de formación, ya sea en modalidad virtual, semipresencial o de apoyo a la enseñanza presencial. Su origen se remonta a los sistemas de gestión de contenidos educativos de los años 90, y con el tiempo evolucionaron desde repositorios simples a la integración de foros, evaluaciones, calificaciones e integración de inteligencia artificial aplicada al aprendizaje. Moodle, por ejemplo, fue creado en 2002 como una alternativa de código abierto, mientras que Blackboard y Canvas surgieron como soluciones comerciales orientadas principalmente a instituciones de educación superior en Estados Unidos, expandiéndose progresivamente a nivel mundial.
 
 ---
 
