@@ -11,8 +11,6 @@
 <img src="LMS.png" alt="Comparativa LMS" width="800">
 ▶️ [ Introducción a la Plataforma LMS ](https://www.youtube.com/watch?v=YK3Xc10DyZg)
 
-[![Ver video](https://img.youtube.com/vi/YK3Xc10DyZg/maxresdefault.jpg)](https://www.youtube.com/watch?v=YK3Xc10DyZg)
-
 # 📖 Descripción
 
 En este sitio académico se realiza una presentación comparativa de los ***Sistemas de Gestión del Aprendizaje*** (LMS - Learning Management Systema), **Moodle**, **Blackboar**, y **Canvas**, la cual realizamos una comparativa de esas tres grandes herramientas para el manejo academico en línea.
