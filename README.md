@@ -186,9 +186,9 @@ Escriba tres conclusiones relevantes.
 # 📚 Referencias bibliográficas
 
 ```text
-Autor, A. A. (2024). Título del libro. Editorial.
-
-Autor, B. B. (2025). Título del artículo. https://xxxxx
+Bit4learn. (2026). Canvas LMS 2026: Qué es, precios, alternativas y opiniones. https://bit4learn.com/canvas-lms/
+Bit4learn. (2026). Canvas LMS 2026: Qué es, precios, alternativas y opiniones. https://bit4learn.com/canvas-lms/
+Bit4learn. (2025). Blackboard LMS: Opiniones, alternativas, precios. https://bit4learn.com/blackboard-lms/
 ```
 
 ---
