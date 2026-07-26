@@ -10,7 +10,7 @@
 ---
 <img src="LMS.png" alt="Comparativa LMS" width="800">
 
-▶️ [Introducción](https://www.youtube.com/watch?v=YK3Xc10DyZg)
+▶️ [Introducción a la Plataforma LMS](https://www.youtube.com/watch?v=YK3Xc10DyZg)
 
 # 📖 Descripción
 
