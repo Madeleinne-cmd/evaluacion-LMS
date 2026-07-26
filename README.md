@@ -7,8 +7,8 @@
 > **Estudiantes:** Anayttee Rodríguez - Maribel Mendoza - Pedro Corrales - Luis Vega
 > **Fecha:** 26/ 7 / 2026
 ---
-<img src="imagenes/comparativa-lms.png" alt="Comparativa LMS" width="500">
-![Comparativa LMS](imagenes/comparativa-lms.png)
+<img src="LMS.png" alt="Comparativa LMS" width="500">
+![Comparativa LMS](LMS.png)
 ---
 
 # 📖 Descripción
