@@ -71,23 +71,23 @@ Se puede decir que la selección de un LMS dependerá principalmente del context
 
 ## Descripción
 
-> Escriba una breve descripción.
+> Moodle es conocido por sus siglas (Modular Object-Oriented Dynamic Learning Environmente) es una plataforma de código abierto creada en el 2002, utilizada actualmente por millones de usuario a nivel mundial. Esta plataforma es autoalojada, lo que significa que las instituciones deben contar con su propio servidor o contratar un servicio de hosting para instalarla y mantenerla.
 
 ### Ventajas
 
--
+- Es compempletamente gratuita y de código abierto, con total libertad de su personalización.
 
--
+- Cuenta con un soporte de una comunidad activa de desarrolladores, facilitando el soporte, documentación y creación de nuevas actualizaciones.
 
--
+- Ofrece herramientas de evaluación y seguimiento muy completas para cuestionarios, rúbricas, contenido SCORM y H5P entre otras.
 
 ### Desventajas
 
--
+- Requiere de servidor propio y conocimiento técnicos para su instalación, actualización y mantenimiento.
 
--
+- Su interfaz gráfica es percibida como menos moderna y intuitiva en comparación con Canvas.
 
--
+- Su curva de aprendizaje para administradores y usuarios nuevos es más elevada.
 
 ---
 
