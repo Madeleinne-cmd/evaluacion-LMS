@@ -11,7 +11,7 @@
 
 # 📖 Descripción
 
-Este repositorio presenta una **reseña crítica comparativa** de tres Sistemas de Gestión del Aprendizaje (Learning Management System - LMS): **Moodle**, **Blackboard** y **Canvas**, considerando sus principales características, ventajas, limitaciones y aplicaciones en contextos educativos.
+En este sitio académico se realiza una presentación comparativa de los Sistemas de Gestión del Aprendizaje (LMS - Learning Management Systema), **Moodle**, **Blackboar**, y **Canvas**, la cual realizamos una comparativa de esas tres grandes herramientas para el manejo academico en línea.
 
 ---
 
