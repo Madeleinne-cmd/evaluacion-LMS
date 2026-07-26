@@ -1,11 +1,11 @@
 # evaluacion-LMS
 # 🎓 Evaluación Comparativa Profesional de Plataformas LMS
 
-> **Asignatura:** Enseñanza y Aprendizaje en Línea  
-> **Universidad:** Universidad Tecnológica OTEIMA  
-> **Docente:** Briseida Cruz 
-> **Estudiantes:** Anayttee Rodríguez - Maribel Mendoza - Pedro Corrales - Luis Vega
-> **Fecha:** 26/ 7 / 2026
+> **Asignatura:** Enseñanza y Aprendizaje en Línea<br>
+> **Universidad:** Universidad Tecnológica OTEIMA<br>
+> **Docente:** Briseida Cruz<br>
+> **Estudiantes:** Anayttee Rodríguez - Maribel Mendoza - Pedro Corrales - Luis Vega<br>
+> **Fecha:** 26/7/2026
 ---
 <img src="LMS.png" alt="Comparativa LMS" width="800">
 
