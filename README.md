@@ -51,7 +51,7 @@ Se puede decir que la selección de un LMS dependerá principalmente del context
 
 ## Objetivo del análisis
 
-> Indique qué pretende demostrar con la comparación.
+> Con la comparación se busca desmostrar cuáles son las fortalezas y debilidades específicas de Moodle, Blackboard y Canvas, de manera que una institución educativa o un docente pueda identificar cuál plataforma se ajusta mejor a sus necesidades.
 
 ---
 
