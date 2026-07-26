@@ -66,7 +66,7 @@ Se puede decir que la selección de un LMS dependerá principalmente del context
 
 ---
 
-# 🔵 Moodle <img src="1_moodle.png" alt="Logo Moodle" width="80">
+# 🔵 Moodle <img src="1_moodle.png" alt="Logo Moodle" width="60">
 
 ## Descripción
 
@@ -90,7 +90,7 @@ Se puede decir que la selección de un LMS dependerá principalmente del context
 
 ---
 
-# ⚫ Blackboard <img src="2_blackboard.png" alt="Logo Moodle" width="80">
+# ⚫ Blackboard <img src="2_blackboard.png" alt="Logo Moodle" width="60">
 
 ## Descripción
 > Blackboard es una plataforma de gestión del aprendizaje, conocida como LMS. Su propósito es desarrollar, organizar y reunir en un único entorno digital los recursos, actividades y herramientas necesarios para llevar a cabo un curso. Es una de las herramientas más empleadas por universidades, colegios e instituciones corporativas a nivel mundial. Algunas de las características más destacadas de Blackboard son:
@@ -120,7 +120,7 @@ Se puede decir que la selección de un LMS dependerá principalmente del context
 - Experiencia en dispositivos móviles mejorable.
 - Si la universidad no capacita a sus docentes ni organiza la plataforma, Blackboard se vuelve caótico y solo se emplea para cargar archivos.
 
-# 🔴 Canvas <img src="3_canvas.png" alt="Logo Moodle" width="80">
+# 🔴 Canvas <img src="3_canvas.png" alt="Logo Moodle" width="60">
 
 ## Descripción
 
