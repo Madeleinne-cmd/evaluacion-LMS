@@ -143,16 +143,16 @@ Plataforma LMS utilizada en instituciones educativas que permite gestionar curso
 
 | Criterio | Moodle | Blackboard | Canvas |
 |----------|---------|------------|---------|
-| Facilidad de uso | | | |
-| Diseño de la interfaz | | | |
-| Herramientas de evaluación | | | |
-| Comunicación | | | |
-| Recursos multimedia | | | |
-| Personalización | | | |
-| Aplicación móvil | | | |
-| Licencia | | | |
-| Costo | | | |
-| Público objetivo | | | |
+| Facilidad de uso | Media (curva de aprendizaje inicial) | Media (más compleja para usuarios novatos) | Alta (interfaz intuitiva) |
+| Diseño de la interfaz | Sencillo, poco moderno | Funcional, algo anticuado | Moderno y visualmente atractivo |
+| Herramientas de evaluación | Muy completas (cuestionarios, rúbricas, SCORM, H5P) | Completas, con analítica en tiempo real | Completas, con IA educativa integrada |
+| Comunicación | Foros, chats, mensajería interna | Foros y correo, mejorables según usuarios | Mensajería integrada y notificaciones |
+| Recursos multimedia | Amplio soporte (video, audio, PDF, SCORM, xAPI, H5P) | Diseñador de contenido y Video Studio | Integración multimedia moderna |
+| Personalización | Muy alta (código abierto, cientos de plugins) | Media (requiere conocimientos técnicos) | Limitada frente a Moodle |
+| Aplicación móvil | Disponible, funcional | Disponible | Disponible y muy pulida |
+| Licencia | Código abierto (GPL) | Comercial/propietaria | Comercial (con versión gratuita limitada) |
+| Costo | Gratuita (se paga hosting y mantenimiento) | Alto (cotización institucional) | Alto (cotización institucional); gratis para docentes individuales |
+| Público objetivo | Instituciones con soporte técnico propio, proyectos personalizables | Universidades y grandes instituciones con presupuesto amplio | Educación superior y K-12 que priorizan UX moderna |
 
 ---
 
