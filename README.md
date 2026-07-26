@@ -185,10 +185,6 @@ Escriba tres conclusiones relevantes.
 
 # 📚 Referencias bibliográficas
 
-Utilice el formato **APA 7**.
-
-Ejemplo:
-
 ```text
 Autor, A. A. (2024). Título del libro. Editorial.
 
