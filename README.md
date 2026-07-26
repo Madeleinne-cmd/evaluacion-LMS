@@ -4,6 +4,7 @@
 > **Asignatura:** Enseñanza y Aprendizaje en Línea<br>
 > **Universidad:** Universidad Tecnológica OTEIMA<br>
 > **Docente:** Briseida Cruz<br>
+> **Equipo de Investigación:** Sigma<br>
 > **Estudiantes:** Anayttee Rodríguez - Maribel Mendoza - Pedro Corrales - Luis Vega<br>
 > **Fecha:** 26/7/2026
 ---
