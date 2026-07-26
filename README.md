@@ -57,7 +57,7 @@ Se puede decir que la selección de un LMS dependerá principalmente del context
 
 ## Justificación
 
-> Explique la importancia de conocer las diferentes plataformas educativas.
+> Conocer las diferencias entre las principales plataformas LMS son necesarias para los futuros docentes y diseñadores institucinales, ya que les permiten una elección adecuada de herramientas tecnológiccas para la calidad en la enseñanza-aprendizaje y la accesibilidad a los contendios educativos.
 
 ---
 
