@@ -17,7 +17,7 @@ En este sitio académico se realiza una presentación comparativa de los ***Sist
 
 # 🎯 Objetivo
 
-Desarrollar un análisis comparativo de tres plataformas LMS mediante una reseña crítica, aplicando criterios académicos y tecnológicos para valorar su utilización en ambientes virtuales de aprendizaje.
+Analizar de manera crítica y comparar las plataformas Moodle, Blackboard y Canvas, con el fin de identificar sus fortalezas, limitación y condiciones de uso más adecuados, de modo que sirva como una referencia para la selección de un LMS para las necesidades académicas y tecnológicas de cualquier institución educativa.
 
 ---
 
